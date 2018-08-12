@@ -10,7 +10,6 @@
 {
     "plugins": ["hints-istex"]
 }
-
 ```
 
 ### 使用方法 {#usage}
@@ -21,7 +20,6 @@
 {% hint style='info' %}
 重要信息，以下内容会被当作提示内容。
 {% endhint %}
-
 ```
 
 The above example will produce a styled alert, with an icon:
