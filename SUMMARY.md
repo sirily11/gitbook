@@ -10,4 +10,5 @@
     * [Hints-istex](gitbook/cha-jian/hints-istex.md)
 * 新科技
   * [Lambda Function](lambda-function.md)
+  * [Serverless Application](serverless-application.md)
 
