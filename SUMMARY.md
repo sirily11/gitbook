@@ -10,5 +10,5 @@
   * [Serverless Application](serverless-application.md)
   * [Python Virtual Environments](python-virtual-environments.md)
 * [gitbook stuff](gitbook-stuff.md)
-  * 插件
+  * [插件](gitbook-stuff/cha-jian.md)
 
