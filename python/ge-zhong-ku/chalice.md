@@ -106,5 +106,16 @@ chalice deploy
 在提交前，请务必确认你已经安装了[AWS CLI](https://aws.amazon.com/cn/cli/)。
 {% endhint %}
 
+## 第四步 进行更高阶的尝试
+到此，我们已经知道了如何进行基础的访问，接下来我们是如何进行Http request。我们可以在URL的Parm中添加一些数值，之后打印到我们的页面上。方式如下。我们在URL的地址处填写/resource/123
+
+```python
+@app.route('/resource/{value}', methods=['PUT'],cors=True)
+def put_test(value):
+    return {"value": value}
+```
+之后我们屏幕上便会出现{"value":123}了。为了方便我们的其他程序调用这个函数，我们需要添加cors。
+有关cors的更多详情，请阅读[这篇文章。](https://developer.mozilla.org/zh-CN/docs/Web/HTTP/Access_control_CORS)
+
 
 
