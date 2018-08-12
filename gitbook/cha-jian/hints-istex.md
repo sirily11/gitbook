@@ -35,6 +35,14 @@ The above example will produce a styled alert, with an icon:
 </div>
 ```
 
+效果如下
+
+{% hint style='info' %}
+
+重要信息如下
+
+{% endhint %}
+
 Available styles are:
 
 * `info`
