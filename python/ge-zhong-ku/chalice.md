@@ -97,4 +97,13 @@ chalice local
 
 {% endhint %}
 
+最后，如果我们对结果满意，就可以提交了
+
+
+```
+chalice deploy
+```
+
+
+
 
