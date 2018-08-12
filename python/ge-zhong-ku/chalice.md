@@ -102,7 +102,9 @@ chalice local
 ```
 chalice deploy
 ```
-
+{% hint style='danger' %}
+在提交前，请务必确认你已经安装了[AWS CLI](https://aws.amazon.com/cn/cli/)。
+{% endhint %}
 
 
 
