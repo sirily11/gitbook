@@ -1,5 +1,6 @@
 {
     "plugins": ["hints-istex"],
+    "plugins": ["pretty-term"],
     "pluginsConfig": {
         "hints": {
             "info": "fa fa-info-circle",
