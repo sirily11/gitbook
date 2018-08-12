@@ -92,11 +92,9 @@ chalice local
 {'hello': 'world'}
 ```
 
+{% hint style='info' %}
 
+asd
 
-
-
-
-
-
+{% endhint %}
 
