@@ -92,11 +92,9 @@ chalice local
 {'hello': 'world'}
 ```
 
-{% hint style=''info' %}
 
-注意！此处的网页会随着app.py的变化而变化。
 
-{% endhint %}
+
 
 
 
