@@ -80,7 +80,7 @@ def index():
     return {'hello': 'world'}
 ```
 
-接下来运行
+**接下来运行**
 
 ```
 chalice local
@@ -93,8 +93,8 @@ chalice local
 ```
 
 {% hint style='info' %}
-
-asd
+注意！因为添加了debug功能，所以如果此时更改app.py，页面内容也会随之改动。
 
 {% endhint %}
+
 
